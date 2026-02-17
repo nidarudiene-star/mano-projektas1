@@ -1,2 +1,2 @@
 # mano-projektas1
-kelioniu planavimas su DI
+„Knygos Magijos Kelionių Planavimo AI“ 
